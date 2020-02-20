@@ -1,0 +1,8 @@
+Car
+SUV
+Ute
+Van
+Bus
+Truck
+Motorcycle
+Other
