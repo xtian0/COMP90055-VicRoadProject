@@ -1,0 +1,6 @@
+Ubuntu-1604 Linux
+NVIDA Tesla P4
+Python 3.5
+GCC 4.8
+cuDNN 6
+CUDA 8

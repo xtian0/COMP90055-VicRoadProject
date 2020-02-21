@@ -1,6 +1,25 @@
 LabelImg
 ========
 
+QuickStart
+------------------
+1. Run the labelImg tool:
+
+.. code:: shell
+
+    python3 labelImg.py
+
+
+2. Open the directory where you save the captured images
+
+3. Make sure save format is "PascalVOC" (default)
+
+4. Start labelling by hitting "Create\nRectBox"
+
+(Shortcuts: "W" for creating bounding box, "A" and "D" for prev/next image)
+
+5. The annotation files (.xml format) will be save in the same directory as you store the original images
+
 .. image:: https://img.shields.io/pypi/v/labelimg.svg
         :target: https://pypi.python.org/pypi/labelimg
 
