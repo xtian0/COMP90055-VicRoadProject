@@ -80,7 +80,7 @@ six==1.14.0
 soupsieve==1.9.5
 tensorboard==1.8.0
 tensorflow-estimator==1.14.0
-tensorflow-gpu==1.4.0
+tensorflow-gpu==1.15.2
 tensorflow-tensorboard==0.4.0
 termcolor==1.1.0
 terminado==0.8.3
